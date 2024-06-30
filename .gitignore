@@ -1,0 +1,6 @@
+/__pycache__
+/.neptune
+/checkpoints
+/entire_models
+/lightning_logs
+/state_dictionaries
